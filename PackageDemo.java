@@ -7,5 +7,9 @@ public class PackageDemo
         PrimeNumbers pob = new PrimeNumbers(10);
         
         pob.createPrime();
+
+        SquareNumber sob = new SquareNumber(10);
+
+        sob.SquareNo();
     }
 }

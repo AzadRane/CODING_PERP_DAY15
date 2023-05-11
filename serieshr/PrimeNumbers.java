@@ -2,7 +2,7 @@ package serieshr;
 
 public class PrimeNumbers
 {
-    int n;
+    public int n;
 
     public PrimeNumbers(int no)
     {
